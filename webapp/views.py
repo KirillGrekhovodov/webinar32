@@ -4,5 +4,9 @@ from django.shortcuts import render
 # Create your views here.
 
 
-def test_view(request):
-    a = 5
+def index_view(request):
+    pass
+
+
+def cat_stats_view(request):
+    pass
